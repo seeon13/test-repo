@@ -1,1 +1,4 @@
 i am foo.txt
+2
+34
+s
